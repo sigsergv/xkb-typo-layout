@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -12,8 +13,8 @@
    height="744.09448"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.46"
-   sodipodi:docname="xkb-scheme-2.svg"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="layout-scheme-ru-20120108.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
    inkscape:export-filename="/home/cancel/images/xkb-scheme-2.png"
@@ -39,25 +40,46 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5556349"
-     inkscape:cx="711.46049"
-     inkscape:cy="251.25383"
+     inkscape:zoom="0.77781745"
+     inkscape:cx="687.10822"
+     inkscape:cy="314.70117"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer6"
      showgrid="false"
      inkscape:snap-global="true"
-     inkscape:window-width="1276"
-     inkscape:window-height="767"
+     inkscape:window-width="1024"
+     inkscape:window-height="600"
      inkscape:window-x="0"
-     inkscape:window-y="-12"
+     inkscape:window-y="0"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
        id="grid2392"
        visible="true"
        enabled="true"
        empspacing="25" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="428.18182,504.54546"
+       id="guide3776" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="564.77273,528.63637"
+       id="guide3838" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="622.1591,488.86364"
+       id="guide3934" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="722.85599,337.48279"
+       id="guide4018" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="665.96603,628.68222"
+       id="guide4178" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -67,7 +89,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>XKB Typographic layout</dc:title>
+        <dc:title></dc:title>
         <dc:date>2009</dc:date>
         <dc:creator>
           <cc:Agent>
@@ -107,10 +129,11 @@
     <path
        sodipodi:nodetypes="cccccccccccccc"
        id="path3248"
-       d="M 825.78111,539.68994 L 825.78111,489.68994 L 875.78111,489.68994 L 875.78111,539.68994 L 825.78111,539.68994 L 775.78111,539.68994 L 775.78111,489.68994 L 825.78111,489.68994 L 825.78111,439.68994 L 775.78111,439.68994 L 775.78111,489.68994 L 725.78111,489.68994 L 725.78111,539.68994 L 775.78111,539.68994"
-       style="opacity:0.3;fill:none;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:round;marker-start:none;marker-mid:none;stroke-miterlimit:7.21500015;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline" />
+       d="m 825.78111,539.68994 0,-50 50,0 0,50 -50,0 -50,0 0,-50 50,0 0,-50 -50,0 0,50 -50,0 0,50 50,0"
+       style="opacity:0.3;fill:none;stroke:#b3b3b3;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7.21500015;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;marker-mid:none;display:inline"
+       inkscape:connector-curvature="0" />
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect4940"
        width="15.756712"
        height="17.881622"
@@ -118,7 +141,7 @@
        y="467.16547"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect4952"
        width="15.756712"
        height="17.881622"
@@ -126,7 +149,7 @@
        y="517.52258"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect4954"
        width="15.756712"
        height="17.881622"
@@ -134,7 +157,7 @@
        y="517.52258"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect4956"
        width="15.756712"
        height="17.881622"
@@ -142,7 +165,7 @@
        y="517.52258"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect4958"
        width="15.756712"
        height="17.881622"
@@ -150,7 +173,7 @@
        y="443.6185"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect4960"
        width="15.756712"
        height="17.881622"
@@ -158,7 +181,7 @@
        y="493.97565"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect4962"
        width="15.756712"
        height="17.881622"
@@ -166,7 +189,7 @@
        y="493.97565"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect4964"
        width="15.756712"
        height="17.881622"
@@ -175,7 +198,7 @@
        ry="4.3175373" />
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        x="804.53113"
        y="458.79706"
        id="text4990"
@@ -186,7 +209,7 @@
          y="458.79706">⇑</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        x="854.88831"
        y="508.26135"
        id="text4994"
@@ -197,7 +220,7 @@
          y="508.26135">⇒</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        x="804.53113"
        y="509.86853"
        id="text4998"
@@ -208,7 +231,7 @@
          y="509.86853">⇓</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        x="753.99542"
        y="508.43994"
        id="text5002"
@@ -371,7 +394,7 @@
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="129.66943"
        y="257.59082"
        id="text3182"
@@ -382,7 +405,7 @@
          y="257.59082">~</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="179.16435"
        y="257.59082"
        id="text3186"
@@ -393,7 +416,7 @@
          y="257.59082">1</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="628.28113"
        y="257.59082"
        id="text3190"
@@ -404,7 +427,7 @@
          y="257.59082">0</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="678.28113"
        y="257.59082"
        id="text3194"
@@ -415,7 +438,7 @@
          y="257.59082">-</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="728.28113"
        y="257.59082"
        id="text3198"
@@ -426,7 +449,7 @@
          y="257.59082">+</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="228.81921"
        y="257.59082"
        id="text3202"
@@ -437,7 +460,7 @@
          y="257.59082">2</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="278.63824"
        y="257.59082"
        id="text3206"
@@ -448,7 +471,7 @@
          y="257.59082">3</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="328.82434"
        y="257.59082"
        id="text3210"
@@ -459,7 +482,7 @@
          y="257.59082">4</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="378.82687"
        y="257.59082"
        id="text3214"
@@ -470,7 +493,7 @@
          y="257.59082">5</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="428.82944"
        y="257.59082"
        id="text3218"
@@ -481,7 +504,7 @@
          y="257.59082">6</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.56700003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="501.49539"
        y="246.83279"
        id="text3222"
@@ -492,7 +515,7 @@
          y="246.83279" /></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="478.832"
        y="257.59082"
        id="text3234"
@@ -503,7 +526,7 @@
          y="257.59082">7</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="528.28113"
        y="257.59082"
        id="text3238"
@@ -514,7 +537,7 @@
          y="257.59082">8</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="578.28113"
        y="257.59082"
        id="text3242"
@@ -525,7 +548,7 @@
          y="257.59082">9</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="204.07047"
        y="306.58322"
        id="text3246"
@@ -536,7 +559,7 @@
          y="306.58322">Q</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="253.56796"
        y="306.58322"
        id="text3250"
@@ -547,7 +570,7 @@
          y="306.58322">W</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="303.57053"
        y="306.58322"
        id="text3254"
@@ -558,7 +581,7 @@
          y="306.58322">E</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="353.57309"
        y="306.58322"
        id="text3258"
@@ -569,7 +592,7 @@
          y="306.58322">R</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="403.57562"
        y="306.58322"
        id="text3262"
@@ -580,7 +603,7 @@
          y="306.58322">T</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:20.67693138px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:20.67693138px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="394.85587"
        y="352.17776"
        id="text3266"
@@ -592,7 +615,7 @@
          y="352.17776">Y</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="503.2811"
        y="306.58322"
        id="text3270"
@@ -603,7 +626,7 @@
          y="306.58322">U</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="553.63831"
        y="306.58322"
        id="text3274"
@@ -614,7 +637,7 @@
          y="306.58322">I</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="603.28113"
        y="306.58322"
        id="text3278"
@@ -625,7 +648,7 @@
          y="306.58322">O</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="653.28113"
        y="306.58322"
        id="text3282"
@@ -636,7 +659,7 @@
          y="306.58322">P</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="703.63824"
        y="306.58322"
        id="text3286"
@@ -647,7 +670,7 @@
          y="306.58322">[</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="753.63824"
        y="306.58322"
        id="text3290"
@@ -658,7 +681,7 @@
          y="306.58322">]</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="228.81924"
        y="357.09085"
        id="text3296"
@@ -669,7 +692,7 @@
          y="357.09085">A</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="278.63828"
        y="357.09085"
        id="text3300"
@@ -680,7 +703,7 @@
          y="357.09085">S</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="328.82434"
        y="357.09085"
        id="text3304"
@@ -691,7 +714,7 @@
          y="357.09085">D</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="378.82687"
        y="357.09085"
        id="text3308"
@@ -702,7 +725,7 @@
          y="357.09085">F</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="428.82944"
        y="357.09085"
        id="text3312"
@@ -713,7 +736,7 @@
          y="357.09085">G</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="478.832"
        y="357.09085"
        id="text3316"
@@ -724,7 +747,7 @@
          y="357.09085">H</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="530.80652"
        y="354.06039"
        id="text3320"
@@ -735,7 +758,7 @@
          y="354.06039">J</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="578.28113"
        y="357.09085"
        id="text3324"
@@ -746,7 +769,7 @@
          y="357.09085">K</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="628.28113"
        y="357.09085"
        id="text3328"
@@ -757,7 +780,7 @@
          y="357.09085">L</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="678.28113"
        y="357.09085"
        id="text3332"
@@ -768,7 +791,7 @@
          y="357.09085">;</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="728.28113"
        y="357.09085"
        id="text3336"
@@ -779,7 +802,7 @@
          y="357.09085">'</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="808.53448"
        y="346.69733"
        id="text3340"
@@ -790,7 +813,7 @@
          y="346.69733">Return</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="148.53311"
        y="295.47153"
        id="text3344"
@@ -801,7 +824,7 @@
          y="295.47153">TAB</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="134.28287"
        y="346.48422"
        id="text3348"
@@ -812,7 +835,7 @@
          y="346.48422">Caps Lock</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="267.92395"
        y="384.68994"
        id="text4376"
@@ -823,7 +846,7 @@
          y="384.68994" /></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="253.56799"
        y="406.66339"
        id="text4392"
@@ -834,7 +857,7 @@
          y="406.66339">Z</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="303.57056"
        y="406.66339"
        id="text4396"
@@ -845,7 +868,7 @@
          y="406.66339">X</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="353.57312"
        y="406.66339"
        id="text4400"
@@ -856,7 +879,7 @@
          y="406.66339">C</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="403.57565"
        y="406.66339"
        id="text4404"
@@ -867,7 +890,7 @@
          y="406.66339">V</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="453.57822"
        y="406.66339"
        id="text4408"
@@ -878,7 +901,7 @@
          y="406.66339">B</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="503.28116"
        y="406.66339"
        id="text4412"
@@ -889,7 +912,7 @@
          y="406.66339">N</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="553.63831"
        y="406.66339"
        id="text4416"
@@ -900,7 +923,7 @@
          y="406.66339">M</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="603.28113"
        y="405.59195"
        id="text4420"
@@ -911,7 +934,7 @@
          y="405.59195">,</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="653.28113"
        y="406.66339"
        id="text4424"
@@ -922,7 +945,7 @@
          y="406.66339">.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="703.63824"
        y="406.66339"
        id="text4428"
@@ -933,7 +956,7 @@
          y="406.66339">/</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="782.88788"
        y="244.96391"
        id="text4488"
@@ -944,7 +967,7 @@
          y="244.96391">Backspace</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="791.42828"
        y="395.293"
        id="text4492"
@@ -955,7 +978,7 @@
          y="395.293">Shift</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="145.98671"
        y="398.50711"
        id="text4496"
@@ -966,7 +989,7 @@
          y="398.50711">Shift</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="666.13763"
        y="445.98428"
        id="text4502"
@@ -977,7 +1000,7 @@
          y="445.98428">AltGr</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="129.82426"
        y="456.59088"
        id="text4506"
@@ -988,7 +1011,7 @@
          y="456.59088">ctrl</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="278.63824"
        y="456.59088"
        id="text4512"
@@ -1002,10 +1025,9 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="typo symbols bgs"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4573"
        width="15.756712"
        height="17.881622"
@@ -1013,7 +1035,7 @@
        y="239.7092"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4614"
        width="15.756712"
        height="17.881622"
@@ -1021,7 +1043,7 @@
        y="239.7092"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4620"
        width="15.756712"
        height="17.881622"
@@ -1029,7 +1051,7 @@
        y="239.7092"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4626"
        width="15.756712"
        height="17.881622"
@@ -1037,7 +1059,7 @@
        y="239.7092"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4632"
        width="22.542427"
        height="17.881622"
@@ -1045,15 +1067,15 @@
        y="239.7092"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4650"
        width="20.04986"
        height="17.881622"
-       x="703.63824"
-       y="239.7092"
+       x="699.78131"
+       y="239.54903"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4656"
        width="15.756712"
        height="17.881622"
@@ -1061,7 +1083,7 @@
        y="239.7092"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4662"
        width="15.756712"
        height="17.881622"
@@ -1069,7 +1091,7 @@
        y="288.7016"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4668"
        width="15.756712"
        height="17.881622"
@@ -1077,7 +1099,7 @@
        y="288.7016"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4674"
        width="15.756712"
        height="17.881622"
@@ -1085,7 +1107,7 @@
        y="288.7016"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4680"
        width="15.756712"
        height="17.881622"
@@ -1093,7 +1115,7 @@
        y="288.7016"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4696"
        width="15.756712"
        height="17.881622"
@@ -1101,7 +1123,7 @@
        y="288.7016"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4702"
        width="15.756712"
        height="17.881622"
@@ -1109,7 +1131,7 @@
        y="339.20923"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4708"
        width="15.756712"
        height="17.881622"
@@ -1117,7 +1139,7 @@
        y="339.20923"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4714"
        width="15.756712"
        height="17.881622"
@@ -1125,7 +1147,7 @@
        y="339.20923"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4720"
        width="15.756712"
        height="17.881622"
@@ -1133,7 +1155,7 @@
        y="339.20923"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4726"
        width="15.756712"
        height="17.881622"
@@ -1141,7 +1163,7 @@
        y="339.20923"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4732"
        width="15.756712"
        height="17.881622"
@@ -1149,7 +1171,7 @@
        y="339.20923"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4738"
        width="15.756712"
        height="17.881622"
@@ -1157,7 +1179,7 @@
        y="339.20923"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4744"
        width="15.756712"
        height="17.881622"
@@ -1165,7 +1187,7 @@
        y="339.20923"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4750"
        width="15.756712"
        height="17.881622"
@@ -1173,7 +1195,7 @@
        y="388.78177"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4756"
        width="15.756712"
        height="17.881622"
@@ -1181,7 +1203,7 @@
        y="388.78177"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4762"
        width="15.756712"
        height="17.881622"
@@ -1189,7 +1211,7 @@
        y="388.78177"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4768"
        width="15.756712"
        height="17.881622"
@@ -1197,20 +1219,15 @@
        y="388.78177"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4778"
        width="15.756712"
        height="17.881622"
        x="728.28113"
        y="388.78177"
        ry="4.3175373" />
-    <path
-       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 409.04627,432.63782 L 598.96357,432.63782 C 601.35549,432.63782 603.28111,434.56344 603.28111,436.95536 L 603.28111,446.20191 C 603.28111,448.59382 601.35549,450.51944 598.96357,450.51944 L 409.04627,450.51944 C 406.65435,450.51944 404.72873,448.59382 404.72873,446.20191 L 404.72873,436.95536 C 404.72873,434.56344 406.65435,432.63782 409.04627,432.63782 z"
-       id="rect4784"
-       sodipodi:nodetypes="ccccccccc" />
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect5039"
        width="15.756712"
        height="17.881622"
@@ -1218,23 +1235,78 @@
        y="288.7016"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect5041"
        width="15.756712"
        height="17.881622"
        x="728.28113"
        y="288.7016"
        ry="4.3175373" />
+    <rect
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+       id="rect4626-7"
+       width="15.756712"
+       height="17.881622"
+       x="454.16711"
+       y="239.54903"
+       ry="4.3175373" />
+    <rect
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+       id="rect4626-7-8"
+       width="15.756712"
+       height="17.881622"
+       x="503.93988"
+       y="239.54903"
+       ry="4.3175373" />
+    <rect
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+       id="rect4650-9"
+       width="20.04986"
+       height="17.881622"
+       x="599.29321"
+       y="239.54903"
+       ry="4.3175373" />
+    <rect
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+       id="rect4650-2"
+       width="20.04986"
+       height="17.881622"
+       x="649.52051"
+       y="239.54903"
+       ry="4.3175373" />
+    <rect
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+       id="rect4650-9-9"
+       width="20.04986"
+       height="17.881622"
+       x="549.7478"
+       y="239.54903"
+       ry="4.3175373" />
+    <rect
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+       id="rect4762-2"
+       width="15.756712"
+       height="17.881622"
+       x="579.16711"
+       y="388.73007"
+       ry="4.3175373" />
+    <rect
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+       id="rect4756-5"
+       width="15.756712"
+       height="17.881622"
+       x="429.56363"
+       y="388.73007"
+       ry="4.3175373" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="typo symbols"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="161.39153"
        y="246.98422"
        id="text4602"
@@ -1245,7 +1317,7 @@
          y="246.98422" /></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="207.10094"
        y="257.59082"
        id="text4610"
@@ -1256,7 +1328,7 @@
          y="257.59082">¹</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="256.59842"
        y="257.59082"
        id="text4616"
@@ -1267,7 +1339,7 @@
          y="257.59082">²</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="306.34845"
        y="257.59082"
        id="text4622"
@@ -1278,7 +1350,7 @@
          y="257.59082">³</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="357.23489"
        y="256.07559"
        id="text4628"
@@ -1289,7 +1361,7 @@
          y="256.07559">§</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="397.50418"
        y="255.31403"
        id="text4634"
@@ -1300,18 +1372,18 @@
          y="255.31403">‰</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="704.96405"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="700.96405"
        y="253.23453"
        id="text4652"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan4654"
-         x="704.96405"
+         x="700.96405"
          y="253.23453">—</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="756.85254"
        y="255.22565"
        id="text4658"
@@ -1322,7 +1394,7 @@
          y="255.22565">≠</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="331.31683"
        y="303.79709"
        id="text4664"
@@ -1333,7 +1405,7 @@
          y="303.79709">€</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="379.09473"
        y="304.02029"
        id="text4670"
@@ -1344,7 +1416,7 @@
          y="304.02029">®</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="430.73651"
        y="306.56088"
        id="text4676"
@@ -1355,7 +1427,7 @@
          y="306.56088">™</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="486.49539"
        y="307.01138"
        id="text4682"
@@ -1366,7 +1438,7 @@
          y="307.01138" /></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="481.76328"
        y="305.28857"
        id="text4686"
@@ -1377,7 +1449,7 @@
          y="305.28857">¥</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="678.28113"
        y="306.58322"
        id="text4698"
@@ -1388,7 +1460,7 @@
          y="306.58322">´</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="253.56796"
        y="357.09085"
        id="text4704"
@@ -1399,7 +1471,7 @@
          y="357.09085">́</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="355.08832"
        y="357.28024"
        id="text4710"
@@ -1410,7 +1482,7 @@
          y="357.28024">°</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="406.31686"
        y="355.27032"
        id="text4716"
@@ -1421,7 +1493,7 @@
          y="355.27032">£</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="555.33472"
        y="353.43991"
        id="text4722"
@@ -1432,7 +1504,7 @@
          y="353.43991">„</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="603.28113"
        y="357.09085"
        id="text4728"
@@ -1443,7 +1515,7 @@
          y="357.09085">“</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="654.53113"
        y="357.09085"
        id="text4734"
@@ -1454,7 +1526,7 @@
          y="357.09085">”</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="706.04895"
        y="357.09085"
        id="text4740"
@@ -1465,7 +1537,7 @@
          y="357.09085">‘</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="754.88824"
        y="357.09085"
        id="text4746"
@@ -1476,7 +1548,7 @@
          y="357.09085">’</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="332.00354"
        y="406.97345"
        id="text4752"
@@ -1487,7 +1559,7 @@
          y="406.97345">×</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="379.39191"
        y="404.46854"
        id="text4758"
@@ -1498,7 +1570,7 @@
          y="404.46854">©</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="630.82532"
        y="406.84"
        id="text4764"
@@ -1509,7 +1581,7 @@
          y="406.84">«</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="681.94141"
        y="406.6333"
        id="text4770"
@@ -1520,7 +1592,7 @@
          y="406.6333">»</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="728.89825"
        y="404.4093"
        id="text4780"
@@ -1531,18 +1603,7 @@
          y="404.4093">…</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="411.08997"
-       y="446.41013"
-       id="text4787"
-       sodipodi:linespacing="100%"><tspan
-         sodipodi:role="line"
-         id="tspan4789"
-         x="411.08997"
-         y="446.41013">неразрывный пробел</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        x="732.85681"
        y="303.00293"
        id="text5047"
@@ -1553,7 +1614,7 @@
          y="303.00293">[</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        x="783.10986"
        y="303.51993"
        id="text5051"
@@ -1562,15 +1623,96 @@
          id="tspan5053"
          x="783.10986"
          y="303.51993">]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="457.72565"
+       y="252.8004"
+       id="text4628-6"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4630-2"
+         x="457.72565"
+         y="252.8004"
+         style="font-weight:bold">↑</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="505.72726"
+       y="255.02087"
+       id="text4628-6-4"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4630-2-1"
+         x="505.72726"
+         y="255.02087"
+         style="font-weight:normal;-inkscape-font-specification:Droid Sans">&amp;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="598.5"
+       y="255.23083"
+       id="text4652-4"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4654-1"
+         x="598.5"
+         y="255.23083"
+         style="font-size:22px;font-weight:normal;-inkscape-font-specification:Droid Sans">←</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="648.61365"
+       y="255.23083"
+       id="text4652-5"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4654-8"
+         x="648.61365"
+         y="255.23083"
+         style="font-size:22px">→</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="553.51715"
+       y="255.23083"
+       id="text4628-6-4-0"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4630-2-1-3"
+         x="553.51715"
+         y="255.23083"
+         style="font-weight:normal;-inkscape-font-specification:Droid Sans">∞</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="582.20959"
+       y="404.30389"
+       id="text4764-3"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4766-4"
+         x="582.20959"
+         y="404.30389">−</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="433.00708"
+       y="402.91641"
+       id="text4758-4"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4760-9"
+         x="433.00708"
+         y="402.91641">↓</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="TYPO symbols bgs"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
-       style="opacity:1;fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect4823"
        width="15.756712"
        height="17.881622"
@@ -1578,7 +1720,7 @@
        y="215.76137"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect4847"
        width="15.756712"
        height="17.881622"
@@ -1586,7 +1728,7 @@
        y="215.76137"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect4862"
        width="15.756712"
        height="17.881622"
@@ -1594,7 +1736,7 @@
        y="215.76137"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect4886"
        width="15.756712"
        height="17.881622"
@@ -1602,7 +1744,7 @@
        y="266.11853"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect4898"
        width="15.756712"
        height="17.881622"
@@ -1610,7 +1752,7 @@
        y="316.47568"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect4900"
        width="15.756712"
        height="17.881622"
@@ -1618,7 +1760,7 @@
        y="316.47568"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect4910"
        width="15.756712"
        height="17.881622"
@@ -1626,7 +1768,7 @@
        y="316.47568"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect4916"
        width="15.756712"
        height="17.881622"
@@ -1634,7 +1776,7 @@
        y="316.47568"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect4922"
        width="15.756712"
        height="17.881622"
@@ -1642,7 +1784,7 @@
        y="366.47565"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect4928"
        width="15.756712"
        height="17.881622"
@@ -1650,7 +1792,7 @@
        y="366.47565"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect4934"
        width="15.756712"
        height="17.881622"
@@ -1658,7 +1800,7 @@
        y="366.47565"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect5043"
        width="15.756712"
        height="17.881622"
@@ -1666,7 +1808,7 @@
        y="266.11853"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect5045"
        width="15.756712"
        height="17.881622"
@@ -1674,7 +1816,7 @@
        y="266.11853"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect5106"
        width="15.756712"
        height="17.881622"
@@ -1682,7 +1824,7 @@
        y="366.45612"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect3715"
        width="15.756712"
        height="17.881622"
@@ -1690,7 +1832,7 @@
        y="316.41245"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect4892"
        width="18.167427"
        height="17.881622"
@@ -1698,7 +1840,7 @@
        y="215.37146"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect4880"
        width="18.301355"
        height="17.881622"
@@ -1706,7 +1848,7 @@
        y="215.37146"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect4868"
        width="18.881712"
        height="17.881622"
@@ -1714,7 +1856,7 @@
        y="215.37146"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect4874"
        width="17.76564"
        height="17.881622"
@@ -1722,23 +1864,38 @@
        y="215.37146"
        ry="4.3175373" />
     <rect
-       style="opacity:1;fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        id="rect2842"
        width="15.756712"
        height="17.881622"
        x="353.56146"
        y="316.36722"
        ry="4.3175373" />
+    <rect
+       style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+       id="rect4874-6"
+       width="17.76564"
+       height="17.881622"
+       x="501.79901"
+       y="215.45811"
+       ry="4.3175373" />
+    <rect
+       style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+       id="rect4928-5"
+       width="15.756712"
+       height="17.881622"
+       x="578.93982"
+       y="366.06274"
+       ry="4.3175373" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="TYPO symbols "
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="157.09839"
        y="233.34715"
        id="text4836"
@@ -1749,7 +1906,7 @@
          y="233.34715">≈</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="711.58472"
        y="232.45779"
        id="text4849"
@@ -1760,18 +1917,18 @@
          y="232.45779">­</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-       x="708.10254"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="706.96619"
        y="231.56496"
        id="text4858"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan4860"
-         x="708.10254"
-         y="231.56496">-</tspan></text>
+         x="706.96619"
+         y="231.56496">–</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        x="754.08472"
        y="231.11853"
        id="text4864"
@@ -1782,7 +1939,7 @@
          y="231.11853">±</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        x="678.28113"
        y="283.88638"
        id="text4888"
@@ -1793,7 +1950,7 @@
          y="283.88638">˝</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        x="605.60254"
        y="334.33279"
        id="text4902"
@@ -1804,7 +1961,7 @@
          y="334.33279">‘</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        x="655.95972"
        y="333.97565"
        id="text4906"
@@ -1815,7 +1972,7 @@
          y="333.97565">’</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        x="706.31683"
        y="333.97565"
        id="text4912"
@@ -1826,7 +1983,7 @@
          y="333.97565">″</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        x="757.03107"
        y="334.15427"
        id="text4918"
@@ -1837,7 +1994,7 @@
          y="334.15427">′</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        x="333.99542"
        y="383.61853"
        id="text4924"
@@ -1848,7 +2005,7 @@
          y="383.61853">⋅</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        x="627.63849"
        y="380.89871"
        id="text4930"
@@ -1859,7 +2016,7 @@
          y="380.89871">&lt;</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        x="679.38837"
        y="380.89871"
        id="text4936"
@@ -1870,7 +2027,7 @@
          y="380.89871">&gt;</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        x="728.28113"
        y="280.16278"
        id="text5055"
@@ -1881,7 +2038,7 @@
          y="280.16278">{</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        x="782.69641"
        y="280.16278"
        id="text5059"
@@ -1892,7 +2049,7 @@
          y="280.16278">}</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="381.1633"
        y="382.24652"
        id="text5112"
@@ -1903,7 +2060,7 @@
          y="382.24652">¢</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="556.10938"
        y="331.19153"
        id="text3721"
@@ -1914,7 +2071,7 @@
          y="331.19153">‚</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        x="351.49231"
        y="230.72861"
        id="text4870"
@@ -1925,7 +2082,7 @@
          y="230.72861">¼</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        x="552.52551"
        y="231.44287"
        id="text4876"
@@ -1936,7 +2093,7 @@
          y="231.44287">⅛</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        x="301.33701"
        y="231.04109"
        id="text4882"
@@ -1947,7 +2104,7 @@
          y="231.04109">⅓</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        x="251.78772"
        y="230.63718"
        id="text4894"
@@ -1958,7 +2115,7 @@
          y="230.63718">½</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="356.55762"
        y="333.13834"
        id="text2848"
@@ -1967,21 +2124,43 @@
          id="tspan2850"
          x="356.55762"
          y="333.13834">÷</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="505.77274"
+       y="230.19217"
+       id="text4876-5"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4878-2"
+         x="505.77274"
+         y="230.19217">¿</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="581.54993"
+       y="381.7825"
+       id="text4930-8"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4932-7"
+         x="581.54993"
+         y="381.7825">•</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="Symbols legend"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 789.7649,143.52671 L 711.86612,143.52671 L 711.86612,213.34292"
+       style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 789.7649,143.52671 -77.89878,0 0,69.81621"
        id="path5072"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
        x="791.46863"
        y="147.6416"
        id="text5064"
@@ -1989,10 +2168,10 @@
          sodipodi:role="line"
          id="tspan5066"
          x="791.46863"
-         y="147.6416">знак мяг­кого переноса</tspan></text>
+         y="147.6416">endash</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
        x="218.92938"
        y="132.75914"
        id="text5076"
@@ -2003,23 +2182,24 @@
          y="132.75914" /></text>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
-       x="149.90791"
-       y="100.01212"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="145.98746"
+       y="99.955307"
        id="text5080"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan5082"
-         x="149.90791"
-         y="100.01212">знак ударения (ста́вится по́сле любо́го си́мвола)</tspan></text>
+         x="145.98746"
+         y="99.955307">знак ударения (ста́вится по́сле любо́го си́мвола)</tspan></text>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 144.42559,95.586486 L 116.36301,95.586486 L 116.36301,347.56501 L 250.80279,347.56501"
+       style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 144.42559,95.586486 -28.06258,0 0,253.978524 134.43978,0"
        id="path5084"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
        x="405.57983"
        y="502.448"
        id="text5086"
@@ -2030,7 +2210,7 @@
          y="502.448">матем. символ умножения  (1280×1024)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
        x="405.57983"
        y="479.75781"
        id="text5092"
@@ -2040,17 +2220,19 @@
          x="405.57983"
          y="479.75781">матем. оператор «точка» (2⋅2=4)</tspan></text>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 346.67022,375.01198 L 370.64746,375.01198 L 370.64746,476.29517 L 401.65252,476.29517"
+       style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 346.67022,375.01198 23.97724,0 0,101.28319 31.00506,0"
        id="path5096"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 346.67022,398.16243 L 360.72584,398.16243 L 360.72584,497.79201 L 400.82572,497.79201"
+       style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 346.67022,398.16243 14.05562,0 0,99.62958 40.09988,0"
        id="path5098"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0" />
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43000031;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;stroke:none"
        id="rect3611"
        width="100.55756"
        height="56.125149"
@@ -2059,7 +2241,7 @@
        ry="4.3175373" />
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="925.01788"
        y="327.05753"
        id="text3647"
@@ -2070,7 +2252,7 @@
          y="327.05753" /></text>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="908.88879"
        y="373.81543"
        id="text3651"
@@ -2081,7 +2263,7 @@
          y="373.81543">секунды</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="908.88879"
        y="328.83221"
        id="text3655"
@@ -2091,46 +2273,50 @@
          x="908.88879"
          y="328.83221">минуты</tspan></text>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       d="M 771.50649,324.57709 L 908.88877,324.57709"
+       style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 771.50649,324.57709 137.38228,0"
        id="path3661"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       d="M 721.4738,324.57709 L 736.12855,324.57709 L 736.12855,368.90426 L 908.88877,368.90426"
+       style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 721.4738,324.57709 14.65475,0 0,44.32717 172.76022,0"
        id="path3667"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="316.05188"
-       y="156.62392"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="315.37006"
+       y="156.79437"
        id="text3671"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan3673"
-         x="316.05188"
-         y="156.62392">знак градуса (37° 37‘ 11”)</tspan></text>
+         x="315.37006"
+         y="156.79437">знак градуса (37° 37‘ 11”)</tspan></text>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       d="M 314.08668,152.29626 L 292.09678,152.29626 L 292.09678,348.55433 L 350.69764,348.55433"
+       style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 314.08668,152.29626 -21.9899,0 0,196.25807 58.60086,0"
        id="path3681"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0" />
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:1;stroke-opacity:1"
+       style="fill:none;stroke:#ff0000;stroke-width:1;stroke-opacity:1"
        id="rect3691"
        width="70.741074"
        height="21.348917"
        x="625.63214"
        y="387.01834" />
     <path
-       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.99999994;stroke-opacity:1;display:inline"
-       d="M 621.13636,314.92311 L 621.13636,358.67311 L 600.7851,358.67311 L 600.7851,314.82535 L 671.52617,314.82535 L 671.52617,358.67311 L 651.25,358.67311 L 651.25,314.92311"
+       style="fill:none;stroke:#ff0000;stroke-width:0.99999994;stroke-opacity:1;display:inline"
+       d="m 621.13636,314.92311 0,43.75 -20.35126,0 0,-43.84776 70.74107,0 0,43.84776 -20.27617,0 0,-43.75"
        id="rect3693"
-       sodipodi:nodetypes="cccccccc" />
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        x="835.22461"
        y="431.75272"
        id="text3695"
@@ -2140,46 +2326,93 @@
          x="835.22461"
          y="431.75272">«русские» кавычки-ёлочки</tspan></text>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       d="M 661.58734,408.56604 L 661.58734,427.55065 L 831.40725,427.55065"
+       style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 661.58734,408.56604 0,18.98461 169.81991,0"
        id="path3699"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="674.49707"
-       y="121.18392"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="672.49707"
+       y="119.18392"
        id="text3705"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan3707"
-         x="674.49707"
-         y="121.18392">“нерусские” кавычки</tspan></text>
+         x="672.49707"
+         y="119.18392">“нерусские” кавычки</tspan></text>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       d="M 671.5972,116.34109 L 637.03259,116.34109 L 637.03259,314.59342"
+       style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 671.91861,115.41226 -34.88602,0 0,199.18116"
        id="path3713"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       d="M 597.40227,123.98777 L 607.35325,123.98777 L 607.35325,308.03556"
+       style="fill:none;stroke:#000080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 597.40227,115.41226 9.95098,0 0,192.6233"
        id="path2741"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000080;stroke-width:0.99999994;stroke-opacity:1;display:inline"
-       d="M 573.71468,308.63198 L 573.71468,360.23084 L 550.47071,360.23084 L 550.47071,308.53422 L 673.48451,308.53422 L 673.48451,360.23084 L 649.3447,360.23084 L 649.3447,308.63198"
+       style="fill:none;stroke:#000080;stroke-width:0.99999994;stroke-opacity:1;display:inline"
+       d="m 573.71468,308.63198 0,51.59886 -23.24397,0 0,-51.69662 123.0138,0 0,51.69662 -24.13981,0 0,-51.59886"
        id="path3516"
-       sodipodi:nodetypes="cccccccc" />
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="408.96661"
-       y="128.22446"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="409.12732"
+       y="119.09952"
        id="text3526"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan3528"
-         x="408.96661"
-         y="128.22446">русские кавычки-„лапки”</tspan></text>
+         x="409.12732"
+         y="119.09952">русские кавычки-„лапки”</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="797.745"
+       y="163.9455"
+       id="text3975"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3977"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="788.93896"
+       y="173.92297"
+       id="text5064-2"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan5066-9"
+         x="788.93896"
+         y="173.92297">emdash</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 787.83976,169.73281 -31.61543,0 -34.3911,78.17266"
+       id="path5072-6"
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 589.72295,407.81699 52.63213,42.64112 188.24534,0"
+       id="path3699-3"
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="835.39258"
+       y="453.64294"
+       id="text3695-7"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3697-0"
+         x="835.39258"
+         y="453.64294">настоящий минус</tspan></text>
   </g>
 </svg>
