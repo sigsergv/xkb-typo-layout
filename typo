@@ -3,7 +3,7 @@
 //
 // Initial contribution by Alexey Ten <alexeyten+deb@gmail.com>
 //
-// Mainly based on the layout proposed by Ilya Birman, 
+// Mainly based on the layout proposed by Ilya Birman,
 // http://ilyabirman.ru/projects/typography-layout/
 
 // default layout
@@ -30,8 +30,8 @@ xkb_symbols "base" {
     key <AD05> { [NoSymbol, NoSymbol, trademark] }; // "t"
     key <AD06> { [NoSymbol, NoSymbol, yen] }; // "y"
     key <AD10> { [NoSymbol, NoSymbol, acute, doubleacute] }; // "p"
-    key <AD11> { [NoSymbol, NoSymbol, bracketleft, braceleft ] }; // [
-    key <AD12> { [NoSymbol, NoSymbol, bracketright, braceright ] }; // ]
+    key <AD11> { [NoSymbol, NoSymbol, bracketleft, braceleft] }; // [
+    key <AD12> { [NoSymbol, NoSymbol, bracketright, braceright] }; // ]
 
 // 3rd keyboard row
     key <AC01> { [NoSymbol, NoSymbol, U0301, NoSymbol] }; // "a"
