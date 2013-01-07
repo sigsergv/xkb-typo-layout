@@ -40,17 +40,17 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.77781745"
-     inkscape:cx="687.10822"
-     inkscape:cy="314.70117"
+     inkscape:zoom="2.2"
+     inkscape:cx="181.86693"
+     inkscape:cy="477.53407"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer10"
      showgrid="false"
      inkscape:snap-global="true"
      inkscape:window-width="1024"
-     inkscape:window-height="600"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-height="577"
+     inkscape:window-x="-2"
+     inkscape:window-y="-19"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="1">
@@ -89,7 +89,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:date>2009</dc:date>
         <dc:creator>
           <cc:Agent>
@@ -1887,6 +1887,14 @@
        x="578.93982"
        y="366.06274"
        ry="4.3175373" />
+    <rect
+       style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+       id="rect4823-3"
+       width="15.756712"
+       height="17.881622"
+       x="203.48528"
+       y="215.45811"
+       ry="4.3175373" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2146,6 +2154,17 @@
          id="tspan4932-7"
          x="581.54993"
          y="381.7825">•</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="207.83701"
+       y="231.10126"
+       id="text4894-6"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4896-0"
+         x="207.83701"
+         y="231.10126">¡</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2379,7 +2398,7 @@
        id="text3975"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3977"></tspan></text>
+         id="tspan3977" /></text>
     <text
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
@@ -2414,5 +2433,28 @@
          id="tspan3697-0"
          x="835.39258"
          y="453.64294">настоящий минус</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="211.42583"
+       y="167.94041"
+       id="text3671-9"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3673-9"
+         x="213.50395"
+         y="167.94041"
+         style="text-align:center;text-anchor:middle">перевёрнутый </tspan><tspan
+         sodipodi:role="line"
+         x="211.42583"
+         y="183.94041"
+         id="tspan3457"
+         style="text-align:center;text-anchor:middle">«!»</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 211.45033,186.17893 0,27.39443"
+       id="path3681-8"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
