@@ -15,7 +15,7 @@ xkb_symbols "base" {
     key <AE02> { [NoSymbol, NoSymbol, twosuperior, onehalf] }; // "2"
     key <AE03> { [NoSymbol, NoSymbol, threesuperior, onethird] }; // "3"
     key <AE04> { [NoSymbol, NoSymbol, dollar, onequarter] }; // "4"
-    key <AE05> { [NoSymbol, NoSymbol, U2030] }; // "5"
+    key <AE05> { [NoSymbol, NoSymbol, permille] }; // "5"
     key <AE06> { [NoSymbol, NoSymbol, uparrow] }; // "6"
     key <AE07> { [NoSymbol, NoSymbol, ampersand, questiondown] }; // "7"
     key <AE08> { [NoSymbol, NoSymbol, infinity, oneeighth] }; // "8"
