@@ -11,18 +11,18 @@ default partial
 xkb_symbols "base" {
 // 1st keyboard row
     key <TLDE> { [NoSymbol, NoSymbol, NoSymbol, approxeq] };
-    key <AE01> { [NoSymbol, NoSymbol, onesuperior] };
-    key <AE02> { [NoSymbol, NoSymbol, twosuperior, onehalf] };
-    key <AE03> { [NoSymbol, NoSymbol, threesuperior, onethird] };
-    key <AE04> { [NoSymbol, NoSymbol, dollar, onequarter] };
-    key <AE05> { [NoSymbol, NoSymbol, U2030] };
-    key <AE06> { [NoSymbol, NoSymbol, uparrow] };
-    key <AE07> { [NoSymbol, NoSymbol, ampersand, questiondown] };
-    key <AE08> { [NoSymbol, NoSymbol, infinity, oneeighth] };
-    key <AE09> { [NoSymbol, NoSymbol, leftarrow] };
-    key <AE10> { [NoSymbol, NoSymbol, rightarrow] };
-    key <AE11> { [NoSymbol, NoSymbol, emdash, endash] };
-    key <AE12> { [NoSymbol, NoSymbol, notequal, plusminus] };
+    key <AE01> { [NoSymbol, NoSymbol, onesuperior] }; // "1"
+    key <AE02> { [NoSymbol, NoSymbol, twosuperior, onehalf] }; // "2"
+    key <AE03> { [NoSymbol, NoSymbol, threesuperior, onethird] }; // "3"
+    key <AE04> { [NoSymbol, NoSymbol, dollar, onequarter] }; // "4"
+    key <AE05> { [NoSymbol, NoSymbol, U2030] }; // "5"
+    key <AE06> { [NoSymbol, NoSymbol, uparrow] }; // "6"
+    key <AE07> { [NoSymbol, NoSymbol, ampersand, questiondown] }; // "7"
+    key <AE08> { [NoSymbol, NoSymbol, infinity, oneeighth] }; // "8"
+    key <AE09> { [NoSymbol, NoSymbol, leftarrow] }; // "9"
+    key <AE10> { [NoSymbol, NoSymbol, rightarrow] }; // "0"
+    key <AE11> { [NoSymbol, NoSymbol, emdash, endash] }; // "-"
+    key <AE12> { [NoSymbol, NoSymbol, notequal, plusminus] }; // "="
 
 // 2nd keyboard row
     key <AD03> { [NoSymbol, NoSymbol, EuroSign] }; // "e"
@@ -48,11 +48,8 @@ xkb_symbols "base" {
     key <AB02> { [NoSymbol, NoSymbol, multiply, U22C5] }; // "x"
     key <AB03> { [NoSymbol, NoSymbol, copyright, cent] }; // "c"
     key <AB04> { [NoSymbol, NoSymbol, downarrow] }; // "v"
-    key <AB07> { [NoSymbol, NoSymbol, U2212] }; // "m"
+    key <AB07> { [NoSymbol, NoSymbol, U2212, enfilledcircbullet] }; // "m"
     key <AB08> { [NoSymbol, NoSymbol, guillemotleft, less] }; // ","
     key <AB09> { [NoSymbol, NoSymbol, guillemotright, greater] }; // "."
     key <AB10> { [NoSymbol, NoSymbol, ellipsis] }; // "/"
-
-// the last row
-    key <SPCE> { [NoSymbol, NoSymbol, nobreakspace, nobreakspace] };
 };
