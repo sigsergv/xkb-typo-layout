@@ -3,9 +3,8 @@
 //
 // Initial contribution by Alexey Ten <alexeyten+deb@gmail.com>
 //
-// Based on the layout proposed by Ilya Birman, 
-// http://ilyabirman.ru/typography-layout/
-//
+// Mainly based on the layout proposed by Ilya Birman, 
+// http://ilyabirman.ru/projects/typography-layout/
 
 // default layout
 default partial
@@ -17,9 +16,12 @@ xkb_symbols "base" {
     key <AE03> { [NoSymbol, NoSymbol, threesuperior, onethird] };
     key <AE04> { [NoSymbol, NoSymbol, dollar, onequarter] };
     key <AE05> { [NoSymbol, NoSymbol, U2030] };
-    key <AE07> { [NoSymbol, NoSymbol, ampersand] };
-    key <AE08> { [NoSymbol, NoSymbol, enfilledcircbullet, oneeighth] };
-    key <AE11> { [NoSymbol, NoSymbol, emdash, hyphen] };
+    key <AE06> { [NoSymbol, NoSymbol, uparrow] };
+    key <AE07> { [NoSymbol, NoSymbol, ampersand, questiondown] };
+    key <AE08> { [NoSymbol, NoSymbol, infinity, oneeighth] };
+    key <AE09> { [NoSymbol, NoSymbol, leftarrow] };
+    key <AE10> { [NoSymbol, NoSymbol, rightarrow] };
+    key <AE11> { [NoSymbol, NoSymbol, emdash, endash] };
     key <AE12> { [NoSymbol, NoSymbol, notequal, plusminus] };
 
 // 2nd keyboard row
@@ -45,7 +47,12 @@ xkb_symbols "base" {
 // 4th keyboard row
     key <AB02> { [NoSymbol, NoSymbol, multiply, U22C5] }; // "x"
     key <AB03> { [NoSymbol, NoSymbol, copyright, cent] }; // "c"
+    key <AB04> { [NoSymbol, NoSymbol, downarrow] }; // "v"
+    key <AB07> { [NoSymbol, NoSymbol, U2212] }; // "m"
     key <AB08> { [NoSymbol, NoSymbol, guillemotleft, less] }; // ","
     key <AB09> { [NoSymbol, NoSymbol, guillemotright, greater] }; // "."
     key <AB10> { [NoSymbol, NoSymbol, ellipsis] }; // "/"
+
+// the last row
+    key <SPCE> { [NoSymbol, NoSymbol, nobreakspace, nobreakspace] };
 };
