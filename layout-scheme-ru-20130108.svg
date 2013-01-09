@@ -40,13 +40,13 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.3999999"
-     inkscape:cx="393.83921"
-     inkscape:cy="421.26287"
+     inkscape:zoom="1.5556349"
+     inkscape:cx="620.22919"
+     inkscape:cy="413.4905"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:window-width="1920"
      inkscape:window-height="1037"
      inkscape:window-x="-2"
@@ -1061,9 +1061,9 @@
     <rect
        style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4632"
-       width="22.542427"
+       width="24.815155"
        height="17.881622"
-       x="396.78992"
+       x="394.51718"
        y="239.7092"
        ry="4.3175373" />
     <rect
@@ -1221,9 +1221,9 @@
     <rect
        style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect4778"
-       width="15.756712"
+       width="20.756712"
        height="17.881622"
-       x="728.28113"
+       x="723.28113"
        y="388.78177"
        ry="4.3175373" />
     <rect
@@ -1314,7 +1314,7 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="161.39153"
        y="246.98422"
        id="text4602"
@@ -1325,7 +1325,7 @@
          y="246.98422" /></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="207.10094"
        y="257.59082"
        id="text4610"
@@ -1336,51 +1336,52 @@
          y="257.59082">¹</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="256.59842"
-       y="257.59082"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+       x="255.68933"
+       y="254.86354"
        id="text4616"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan4618"
-         x="256.59842"
-         y="257.59082">²</tspan></text>
+         x="255.68933"
+         y="254.86354">²</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="306.34845"
-       y="257.59082"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+       x="305.43936"
+       y="254.86354"
        id="text4622"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan4624"
-         x="306.34845"
-         y="257.59082">³</tspan></text>
+         x="305.43936"
+         y="254.86354">³</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="357.23489"
-       y="256.07559"
+       y="254.71196"
        id="text4628"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan4630"
          x="357.23489"
-         y="256.07559">§</tspan></text>
+         y="254.71196">§</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="397.50418"
-       y="255.31403"
+       style="font-size:18.36526299px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+       x="386.88535"
+       y="260.49496"
        id="text4634"
-       sodipodi:linespacing="100%"><tspan
+       sodipodi:linespacing="100%"
+       transform="scale(1.0202924,0.9801112)"><tspan
          sodipodi:role="line"
          id="tspan4636"
-         x="397.50418"
-         y="255.31403">‰</tspan></text>
+         x="386.88535"
+         y="260.49496">‰</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="700.96405"
        y="253.23453"
        id="text4652"
@@ -1391,18 +1392,18 @@
          y="253.23453">—</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="756.85254"
-       y="255.22565"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+       x="753.67072"
+       y="254.31656"
        id="text4658"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan4660"
-         x="756.85254"
-         y="255.22565">≠</tspan></text>
+         x="753.67072"
+         y="254.31656">≠</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="331.31683"
        y="303.79709"
        id="text4664"
@@ -1413,7 +1414,7 @@
          y="303.79709">€</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="379.09473"
        y="304.02029"
        id="text4670"
@@ -1424,7 +1425,7 @@
          y="304.02029">®</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="430.73651"
        y="306.56088"
        id="text4676"
@@ -1435,7 +1436,7 @@
          y="306.56088">™</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="486.49539"
        y="307.01138"
        id="text4682"
@@ -1446,7 +1447,7 @@
          y="307.01138" /></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="481.76328"
        y="305.28857"
        id="text4686"
@@ -1457,7 +1458,7 @@
          y="305.28857">¥</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="678.28113"
        y="306.58322"
        id="text4698"
@@ -1468,7 +1469,7 @@
          y="306.58322">´</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="253.56796"
        y="357.09085"
        id="text4704"
@@ -1479,7 +1480,7 @@
          y="357.09085">́</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="355.08832"
        y="357.28024"
        id="text4710"
@@ -1490,7 +1491,7 @@
          y="357.28024">°</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="406.31686"
        y="355.27032"
        id="text4716"
@@ -1501,7 +1502,7 @@
          y="355.27032">£</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="555.33472"
        y="353.43991"
        id="text4722"
@@ -1512,7 +1513,7 @@
          y="353.43991">„</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="603.28113"
        y="357.09085"
        id="text4728"
@@ -1523,7 +1524,7 @@
          y="357.09085">“</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="654.53113"
        y="357.09085"
        id="text4734"
@@ -1534,7 +1535,7 @@
          y="357.09085">”</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="706.04895"
        y="357.09085"
        id="text4740"
@@ -1545,7 +1546,7 @@
          y="357.09085">‘</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="754.88824"
        y="357.09085"
        id="text4746"
@@ -1556,29 +1557,29 @@
          y="357.09085">’</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="332.00354"
-       y="406.97345"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+       x="329.11084"
+       y="403.88443"
        id="text4752"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan4754"
-         x="332.00354"
-         y="406.97345">×</tspan></text>
+         x="329.11084"
+         y="403.88443">×</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="379.39191"
-       y="404.46854"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+       x="377.71332"
+       y="403.32605"
        id="text4758"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan4760"
-         x="379.39191"
-         y="404.46854">©</tspan></text>
+         x="377.71332"
+         y="403.32605">©</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="630.82532"
        y="406.84"
        id="text4764"
@@ -1589,29 +1590,29 @@
          y="406.84">«</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="681.94141"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+       x="680.57776"
        y="406.6333"
        id="text4770"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan4772"
-         x="681.94141"
+         x="680.57776"
          y="406.6333">»</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="728.89825"
-       y="404.4093"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+       x="725.2619"
+       y="403.50021"
        id="text4780"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan4782"
-         x="728.89825"
-         y="404.4093">…</tspan></text>
+         x="725.2619"
+         y="403.50021">…</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="732.85681"
        y="303.00293"
        id="text5047"
@@ -1622,7 +1623,7 @@
          y="303.00293">[</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="783.10986"
        y="303.51993"
        id="text5051"
@@ -1633,97 +1634,97 @@
          y="303.51993">]</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="457.72565"
-       y="252.8004"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+       x="455.06992"
+       y="254.88486"
        id="text4628-6"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan4630-2"
-         x="457.72565"
-         y="252.8004"
-         style="font-weight:bold">↑</tspan></text>
+         x="455.06992"
+         y="254.88486"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif">↑</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="505.72726"
-       y="255.02087"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+       x="505.27271"
+       y="254.56633"
        id="text4628-6-4"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan4630-2-1"
-         x="505.72726"
-         y="255.02087"
-         style="font-weight:normal;-inkscape-font-specification:Droid Sans">&amp;</tspan></text>
+         x="505.27271"
+         y="254.56633"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif">&amp;</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="598.5"
-       y="255.23083"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+       x="601.22729"
+       y="254.77629"
        id="text4652-4"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan4654-1"
-         x="598.5"
-         y="255.23083"
-         style="font-size:22px;font-weight:normal;-inkscape-font-specification:Droid Sans">←</tspan></text>
+         x="601.22729"
+         y="254.77629"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif">←</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="648.61365"
-       y="255.23083"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+       x="652.25"
+       y="254.77629"
        id="text4652-5"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan4654-8"
-         x="648.61365"
-         y="255.23083"
-         style="font-size:22px">→</tspan></text>
+         x="652.25"
+         y="254.77629"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif">→</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="553.51715"
-       y="255.23083"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+       x="552.60803"
+       y="253.8672"
        id="text4628-6-4-0"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan4630-2-1-3"
-         x="553.51715"
-         y="255.23083"
-         style="font-weight:normal;-inkscape-font-specification:Droid Sans">∞</tspan></text>
+         x="552.60803"
+         y="253.8672"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif">∞</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="582.20959"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+       x="579.4823"
        y="404.30389"
        id="text4764-3"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan4766-4"
-         x="582.20959"
+         x="579.4823"
          y="404.30389">−</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="433.00708"
-       y="402.91641"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+       x="429.37073"
+       y="404.28006"
        id="text4758-4"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan4760-9"
-         x="433.00708"
-         y="402.91641">↓</tspan></text>
+         x="429.37073"
+         y="404.28006">↓</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="307.96417"
-       y="354.36453"
+       y="353.45544"
        id="text4710-1"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan4712-1"
          x="307.96417"
-         y="354.36453">§</tspan></text>
+         y="353.45544">§</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1922,7 +1923,7 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:17.91666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="157.09839"
        y="233.34715"
        id="text4836"
@@ -1933,7 +1934,7 @@
          y="233.34715">≈</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:17.91666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="711.58472"
        y="232.45779"
        id="text4849"
@@ -1944,7 +1945,7 @@
          y="232.45779">­</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:17.91666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="706.96619"
        y="231.56496"
        id="text4858"
@@ -1955,7 +1956,7 @@
          y="231.56496">–</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:17.91666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="754.08472"
        y="231.11853"
        id="text4864"
@@ -1966,7 +1967,7 @@
          y="231.11853">±</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:17.91666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="678.28113"
        y="283.88638"
        id="text4888"
@@ -1977,7 +1978,7 @@
          y="283.88638">˝</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:17.91666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="605.60254"
        y="334.33279"
        id="text4902"
@@ -1988,7 +1989,7 @@
          y="334.33279">‘</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:17.91666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="655.95972"
        y="333.97565"
        id="text4906"
@@ -1999,7 +2000,7 @@
          y="333.97565">’</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:17.91666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="758.77136"
        y="333.97565"
        id="text4912"
@@ -2010,7 +2011,7 @@
          y="333.97565">″</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:17.91666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="709.75836"
        y="333.24518"
        id="text4918"
@@ -2021,18 +2022,18 @@
          y="333.24518">′</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:17.91666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="333.99542"
-       y="383.61853"
+       y="381.61853"
        id="text4924"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan4926"
          x="333.99542"
-         y="383.61853">⋅</tspan></text>
+         y="381.61853">⋅</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:17.91666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="627.63849"
        y="380.89871"
        id="text4930"
@@ -2043,7 +2044,7 @@
          y="380.89871">&lt;</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:17.91666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="679.38837"
        y="380.89871"
        id="text4936"
@@ -2054,7 +2055,7 @@
          y="380.89871">&gt;</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:17.91666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="728.28113"
        y="280.16278"
        id="text5055"
@@ -2065,7 +2066,7 @@
          y="280.16278">{</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:17.91666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="782.69641"
        y="280.16278"
        id="text5059"
@@ -2076,29 +2077,29 @@
          y="280.16278">}</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-size:17.91666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="381.1633"
-       y="382.24652"
+       y="380.31805"
        id="text5112"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan5114"
          x="381.1633"
-         y="382.24652">¢</tspan></text>
+         y="380.31805">¢</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="556.10938"
-       y="331.19153"
+       style="font-size:17.91666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+       x="558.03784"
+       y="329.90588"
        id="text3721"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan3723"
-         x="556.10938"
-         y="331.19153">‚</tspan></text>
+         x="558.03784"
+         y="329.90588">‚</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:17.91666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="351.49231"
        y="230.72861"
        id="text4870"
@@ -2106,10 +2107,11 @@
          sodipodi:role="line"
          id="tspan4872"
          x="351.49231"
-         y="230.72861">¼</tspan></text>
+         y="230.72861"
+         style="font-weight:normal;-inkscape-font-specification:DejaVu Serif;font-family:DejaVu Serif;font-style:normal;font-stretch:normal;font-variant:normal;font-size:17.91666603px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%">¼</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:17.91666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="552.52551"
        y="231.44287"
        id="text4876"
@@ -2120,18 +2122,19 @@
          y="231.44287">⅛</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-       x="301.33701"
+       style="font-size:17.91666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+       x="301.40854"
        y="231.04109"
        id="text4882"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan4884"
-         x="301.33701"
-         y="231.04109">⅓</tspan></text>
+         x="301.40854"
+         y="231.04109"
+         style="font-size:17.91666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif">⅓</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:17.91666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="251.78772"
        y="230.63718"
        id="text4894"
@@ -2142,29 +2145,29 @@
          y="230.63718">½</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="356.55762"
-       y="333.13834"
+       style="font-size:17.91666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+       x="353.98633"
+       y="331.85269"
        id="text2848"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan2850"
-         x="356.55762"
-         y="333.13834">÷</tspan></text>
+         x="353.98633"
+         y="331.85269">÷</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:17.91666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="505.77274"
-       y="230.19217"
+       y="230.76347"
        id="text4876-5"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan4878-2"
          x="505.77274"
-         y="230.19217">¿</tspan></text>
+         y="230.76347">¿</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:17.91666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="581.54993"
        y="381.7825"
        id="text4930-8"
@@ -2175,7 +2178,7 @@
          y="381.7825">•</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-size:17.91666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
        x="207.83701"
        y="231.10126"
        id="text4894-6"
