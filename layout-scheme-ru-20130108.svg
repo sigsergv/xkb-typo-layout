@@ -14,7 +14,7 @@
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="layout-scheme-ru-20120108.svg"
+   sodipodi:docname="layout-scheme-ru-20130108.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
    inkscape:export-filename="/home/cancel/images/xkb-scheme-2.png"
@@ -40,17 +40,17 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5556349"
-     inkscape:cx="762.64836"
-     inkscape:cy="466.1174"
+     inkscape:zoom="4.3999999"
+     inkscape:cx="393.83921"
+     inkscape:cy="421.26287"
      inkscape:document-units="px"
-     inkscape:current-layer="layer10"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:snap-global="true"
-     inkscape:window-width="1024"
-     inkscape:window-height="577"
+     inkscape:window-width="1920"
+     inkscape:window-height="1037"
      inkscape:window-x="-2"
-     inkscape:window-y="-19"
+     inkscape:window-y="-1"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="1">
@@ -1298,6 +1298,14 @@
        x="429.56363"
        y="388.73007"
        ry="4.3175373" />
+    <rect
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+       id="rect4702-2"
+       width="15.756712"
+       height="17.881622"
+       x="304.35266"
+       y="338.94659"
+       ry="4.3175373" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1705,6 +1713,17 @@
          id="tspan4760-9"
          x="433.00708"
          y="402.91641">↓</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="307.96417"
+       y="354.36453"
+       id="text4710-1"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4712-1"
+         x="307.96417"
+         y="354.36453">§</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
